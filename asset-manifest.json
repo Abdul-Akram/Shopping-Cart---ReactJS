@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Abdul-Akram/Shopping-Cart---ReactJS.git/static/css/main.ad974a43.css",
+    "main.js": "/Abdul-Akram/Shopping-Cart---ReactJS.git/static/js/main.9f3ce218.js",
+    "static/js/453.b2482a81.chunk.js": "/Abdul-Akram/Shopping-Cart---ReactJS.git/static/js/453.b2482a81.chunk.js",
+    "static/media/p (5).jpg": "/Abdul-Akram/Shopping-Cart---ReactJS.git/static/media/p (5).81f192741a213ea763a5.jpg",
+    "static/media/p (6).jpg": "/Abdul-Akram/Shopping-Cart---ReactJS.git/static/media/p (6).08f0bb08d60da3785c2f.jpg",
+    "static/media/p (2).jpg": "/Abdul-Akram/Shopping-Cart---ReactJS.git/static/media/p (2).106ef9aebb2c1116dac5.jpg",
+    "static/media/p (4).jpg": "/Abdul-Akram/Shopping-Cart---ReactJS.git/static/media/p (4).0fc93b1e51effa3100d4.jpg",
+    "static/media/p (1).jpg": "/Abdul-Akram/Shopping-Cart---ReactJS.git/static/media/p (1).59f7699207fa36817132.jpg",
+    "static/media/p (3).jpg": "/Abdul-Akram/Shopping-Cart---ReactJS.git/static/media/p (3).796669799bdba150b3eb.jpg",
+    "index.html": "/Abdul-Akram/Shopping-Cart---ReactJS.git/index.html",
+    "main.ad974a43.css.map": "/Abdul-Akram/Shopping-Cart---ReactJS.git/static/css/main.ad974a43.css.map",
+    "main.9f3ce218.js.map": "/Abdul-Akram/Shopping-Cart---ReactJS.git/static/js/main.9f3ce218.js.map",
+    "453.b2482a81.chunk.js.map": "/Abdul-Akram/Shopping-Cart---ReactJS.git/static/js/453.b2482a81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad974a43.css",
+    "static/js/main.9f3ce218.js"
+  ]
+}
