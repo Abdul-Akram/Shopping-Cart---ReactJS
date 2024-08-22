@@ -1,0 +1,19 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: aliceblue;
+    padding: 0 0 0 1rem ;
+}
+
+.menu-items{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    list-style-type: none;
+    gap: 10px;
+    margin-top: 30px;
+}
+.lik{
+    color: white;
+    text-decoration: none;
+}
