@@ -10,7 +10,7 @@ const Card = ({ state, handleAdd }) => {
                     <img src={item.image} alt="ProductImages" className="p-image" width="200px"></img>
                     <h2>{item.name}</h2>
                     <p>Price: ${item.price}</p>
-                    <p>Description: {item.description}</p>
+                    <p className='description'>{item.description}</p>
                     <button onClick={() => handleAdd(item)}>Add To Cart</button>
                 </div>
             ))}
