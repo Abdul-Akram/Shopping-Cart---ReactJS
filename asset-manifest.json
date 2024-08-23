@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.e939b431.css",
-    "main.js": "/static/js/main.7f9b55f4.js",
-    "static/js/453.b2482a81.chunk.js": "/static/js/453.b2482a81.chunk.js",
-    "static/media/p (5).jpg": "/static/media/p (5).81f192741a213ea763a5.jpg",
-    "static/media/p (6).jpg": "/static/media/p (6).08f0bb08d60da3785c2f.jpg",
-    "static/media/p (2).jpg": "/static/media/p (2).106ef9aebb2c1116dac5.jpg",
-    "static/media/p (4).jpg": "/static/media/p (4).0fc93b1e51effa3100d4.jpg",
-    "static/media/p (1).jpg": "/static/media/p (1).59f7699207fa36817132.jpg",
-    "static/media/p (3).jpg": "/static/media/p (3).796669799bdba150b3eb.jpg",
-    "index.html": "/index.html",
-    "main.e939b431.css.map": "/static/css/main.e939b431.css.map",
-    "main.7f9b55f4.js.map": "/static/js/main.7f9b55f4.js.map",
-    "453.b2482a81.chunk.js.map": "/static/js/453.b2482a81.chunk.js.map"
+    "main.css": "/Shopping-Cart---ReactJS/static/css/main.e939b431.css",
+    "main.js": "/Shopping-Cart---ReactJS/static/js/main.faf07f0d.js",
+    "static/js/453.b2482a81.chunk.js": "/Shopping-Cart---ReactJS/static/js/453.b2482a81.chunk.js",
+    "static/media/p (5).jpg": "/Shopping-Cart---ReactJS/static/media/p (5).81f192741a213ea763a5.jpg",
+    "static/media/p (6).jpg": "/Shopping-Cart---ReactJS/static/media/p (6).08f0bb08d60da3785c2f.jpg",
+    "static/media/p (2).jpg": "/Shopping-Cart---ReactJS/static/media/p (2).106ef9aebb2c1116dac5.jpg",
+    "static/media/p (4).jpg": "/Shopping-Cart---ReactJS/static/media/p (4).0fc93b1e51effa3100d4.jpg",
+    "static/media/p (1).jpg": "/Shopping-Cart---ReactJS/static/media/p (1).59f7699207fa36817132.jpg",
+    "static/media/p (3).jpg": "/Shopping-Cart---ReactJS/static/media/p (3).796669799bdba150b3eb.jpg",
+    "index.html": "/Shopping-Cart---ReactJS/index.html",
+    "main.e939b431.css.map": "/Shopping-Cart---ReactJS/static/css/main.e939b431.css.map",
+    "main.faf07f0d.js.map": "/Shopping-Cart---ReactJS/static/js/main.faf07f0d.js.map",
+    "453.b2482a81.chunk.js.map": "/Shopping-Cart---ReactJS/static/js/453.b2482a81.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e939b431.css",
-    "static/js/main.7f9b55f4.js"
+    "static/js/main.faf07f0d.js"
   ]
 }
