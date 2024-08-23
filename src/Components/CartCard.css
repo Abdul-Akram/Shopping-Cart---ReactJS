@@ -15,8 +15,8 @@
 }
 
 .card:hover {
-    transform: translateY(-10px); /* Slight lift on hover */
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); /* Enhance shadow on hover */
+    transform: translateY(-10px); 
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); 
 }
 
 .card-container {
@@ -24,19 +24,19 @@
     grid-template-columns: repeat(3, 1fr);
     margin: auto;
     padding: 1rem;
-    gap: 20px; /* Increased gap for better spacing */
+    gap: 20px; 
     width: 100%;
 }
 
 .p-image {
     border-radius: 13px;
-    max-width: 100%; /* Ensure images don't overflow the card */
+    max-width: 100%; 
     height: auto;
 }
 
 .description {
     text-align: center;
-    font-size: .8rem; /* Adjusted font size for readability */
+    font-size: .8rem; 
     margin: 1rem;
 }
 .q-d{
